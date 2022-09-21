@@ -17,13 +17,13 @@ Skills:  REACT / JS / HTML / CSS / PYTHON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafijur1238)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/hafijur1238&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hafijur1238&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/hafijur1238)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hafijur1238)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/hafijur1238)  
+![GitHub metrics](https://metrics.lecoq.io/hafijur1238)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/hafijur1238)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hafijur1238)  
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/hafijur1238)  
+![Profile views](https://gpvc.arturio.dev/hafijur1238)  
 
