@@ -15,7 +15,7 @@ Skills:  REACT / JS / HTML / CSS / PYTHON
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/hafijur1238)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/hafijur1238)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafijur1238)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/hafijur1238&show_icons=true)  
 
