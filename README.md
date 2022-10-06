@@ -21,7 +21,7 @@ Skills:  REACT / JS / HTML / CSS / PYTHON
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hafijur1238)  
 
-![GitHub metrics](https://metrics.lecoq.io/hafijur1238)  
+![GitHub metrics](https://metrics.lecoq.io/?user=hafijur1238)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hafijur1238)  
 
