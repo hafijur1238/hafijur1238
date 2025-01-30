@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Hafijur Rahman
 #### Frontend Developer
-I love to visualize ideas and make them come alive on a website. If you looking for a Frontend Developer to build your Brand Website, Let's talk!
+Passionate about transforming ideas into engaging digital experiences. As a Frontend Developer, I specialize in building visually appealing and user-friendly brand websites. Let's connect and bring your vision to life!
 
 Skills:  REACT / JS / HTML / CSS / PYTHON
 
