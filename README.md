@@ -1,11 +1,12 @@
-### Hi there 👋, I'm Hafijur Rahamn
+### Hi there 👋, I'm Hafijur Rahman
 #### Frontend Developer
 I love to visualize ideas and make them come alive on a website. If you looking for a Frontend Developer to build your Brand Website, Let's talk!
 
 Skills:  REACT / JS / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on React JS 
+- 🔭 I’m currently working on Next Js 
 - 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Nuxt Js 
 - 💬 Ask me about Web Development
 
 ## 🌐 Socials:
